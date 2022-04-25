@@ -1,8 +1,6 @@
 const LinksSocialMedia = {
   github: 'genesonio',
-  youtube: 'c/rocketseat',
   instagram: 'genesonio',
-  twitter: 'maykbrito',
   facebook: 'genesonio'
 }
 
